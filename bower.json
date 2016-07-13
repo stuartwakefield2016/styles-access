@@ -1,0 +1,21 @@
+{
+  "name": "stuartwakefield2016-styles-access",
+  "authors": [
+    "Stuart Wakefield <me@stuartwakefield.co.uk>"
+  ],
+  "description": "The styling for accessibility text for Stuart Wakefield v2016 website.",
+  "main": "access.css",
+  "moduleType": [],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://stuartwakefield.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
